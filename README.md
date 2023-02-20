@@ -6,6 +6,6 @@ Data Visualization
 ## Technology Used
 R, dplyr, readr, ggplot2
 
-## Takaways
+## Takeaways
 I familarized myself further with the different graphs and graphing features available in the ggplot2 package.  
 
